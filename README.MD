@@ -6,19 +6,29 @@ Explorer, por fin llegamos al punto clave: crear apps de backend.
 
 1. Crea un proyecto nuevo `express_basic`.
   - Crea una carpeta con este nombre.
+
+![image](/assets/carpeta.gif)
   - Ejecuta el comando `npm init` y que se cree el archivo `package.json`.
 
+![image](/assets/npminit.gif)
+
 2. Instala la dependencia express: `npm install express --save`
+
+![image](/assets/npm_express.gif)
+
 3. Crea un archivo llamado `app.js` y crea tu primera app de express:
 
 ![image](https://user-images.githubusercontent.com/17634377/163703958-41c5a084-1531-4bc3-8119-6d87d6cb9fc5.png)
 
+![image](/assets/appjs.gif)
 4. Corre tu app con el comando `node app.js`. Esto hará que tu app se quede en ejecución.
 5. Entra a tu navegador a `localhost:3000`
 
 ![image](https://user-images.githubusercontent.com/17634377/163703992-c7e68d24-9954-4b6e-ab5e-cd1d24e6e6a4.png)
 
 Felicidades, esta es un servidor de Node JS.
+
+![image](/assets/localhost.gif)
 
 ## Agregar una nueva ruta
 
