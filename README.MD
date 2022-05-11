@@ -40,6 +40,8 @@ Felicidades, esta es un servidor de Node JS.
 7. Después de agregar el código anterior, recuerda parar tu servidor y volver a iniciarlo para que puedas ver tus cambios.
 8. Verifica que puedes entrar a `localhost:3000/launchx`.
 
+![image](/assets/nuevaruta.gif)
+
 ## Agregar nueva ruta para regresar un objeto
 
 9. Agrega una nueva ruta y regresa un objeto:
@@ -48,6 +50,8 @@ Felicidades, esta es un servidor de Node JS.
 
 10. Para tu server, y vuelve a levantarlo para que tome tus cambios recientes `node app.js`.
 11. Entra a la url `localhost:3000/explorersInNode` para verificar que regresa el objeto que indicaste.
+
+![image](/assets/regresandoObjeto.gif)
 
 ![image](https://user-images.githubusercontent.com/17634377/163704123-71b5430f-7695-4bb2-9f84-8526c4d2279d.png)
 
@@ -62,5 +66,5 @@ Felicidades, esta es un servidor de Node JS.
 
 ![image](https://user-images.githubusercontent.com/17634377/163704202-055c26e4-bfe4-4b44-b25f-2e89777af903.png)
 
-
+![image](/assets/queryparams.gif)
 
