@@ -22,6 +22,7 @@ Explorer, por fin llegamos al punto clave: crear apps de backend.
 
 ![image](/assets/appjs.gif)
 4. Corre tu app con el comando `node app.js`. Esto hará que tu app se quede en ejecución.
+
 5. Entra a tu navegador a `localhost:3000`
 
 ![image](https://user-images.githubusercontent.com/17634377/163703992-c7e68d24-9954-4b6e-ab5e-cd1d24e6e6a4.png)
